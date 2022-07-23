@@ -1,3 +1,8 @@
+package-lock.json
+yarn.lock
+build
+dist
+
 # Logs
 logs
 *.log
